@@ -7,11 +7,10 @@
  * Curso:   Lenguajes de Interfaz, TECNM Campus ITT
  * 
  * Objetivo:
- * Este programa está diseñado para [proporcionar una breve descripción del objetivo del programa].
+ * Este programa está diseñado para que imprima la tabla de sumar hasta 12 + 12
  *
  * Historial de Revisiones:
  * 25/Oct/2023        Donovan Rojo Chaidez - Creado
- * [Fecha]        [Tu Nombre] - Actualizado para añadir [característica/corrección]
  *
  */
 
